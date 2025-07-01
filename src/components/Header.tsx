@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 function Header() {
   return (
-    <AppBar position="static">
+    <AppBar position="static" sx={{bgcolor:'green'}}>
       <Toolbar>
         <Typography variant="h6" sx={{ flexGrow: 1 }}>
           Zaph Tours

@@ -2,9 +2,9 @@ import { Box, Container, Typography } from "@mui/material";
 
 function About() {
   return (
-    <Box sx={{ py: 5 }}>
+    <Box sx={{ py: 3 }}>
       <Container>
-        <Typography variant="h4" gutterBottom>
+        <Typography variant="h4" gutterBottom fontWeight={600}>
           About Zaph Tours
         </Typography>
         <Typography variant="body1">
