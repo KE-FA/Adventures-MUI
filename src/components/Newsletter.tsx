@@ -7,7 +7,7 @@ function Newsletter() {
         <Typography variant="h5" gutterBottom>Subscribe to our Newsletter</Typography>
         <Typography variant="body1" gutterBottom>Get weekly updates on safaris and adventures.</Typography>
         <TextField label="Email Address" variant="outlined" sx={{ mr: 4 }} />
-        <Button variant="contained" sx={{marginTop:1.5}}>Subscribe</Button>
+        <Button variant="contained" sx={{marginTop:1.3}}>Subscribe</Button>
       </Container>
     </Box>
   );
