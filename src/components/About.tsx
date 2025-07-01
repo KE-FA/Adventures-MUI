@@ -11,7 +11,7 @@ function About() {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime fugit
           quaerat vero eos excepturi natus nostrum voluptate, quia dolorem
           officia eum architecto aspernatur ullam quo commodi exercitationem
-          tenetur ut pariatur?
+          tenetur ut pariatur
         </Typography>
       </Container>
     </Box>
