@@ -12,11 +12,11 @@ function Hero() {
         display: 'flex',
         alignItems: 'center',
         color: '#fff',
-        margin:'20px'
+        margin:'10px'
       }}
     >
       <Stack component="div">
-        <Typography variant="h2">Explore the world with us</Typography>
+        <Typography variant="h2" sx={{p:'2rem 1rem'}}>Explore the world with us</Typography>
       </Stack>
     </Box>
   );

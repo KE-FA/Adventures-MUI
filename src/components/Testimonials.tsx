@@ -15,7 +15,7 @@ const reviews = [
     name: "John D",
     comment:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit.exercitationem minima dolor unde aperiam debitis nobis totam? Fuga natus voluptatibus a recusandae sapiente voluptatum?",
-    avatar: "https://www.randomuser.me/api/portraits/men/81.jpg",
+    avatar: "https://www.randomuser.me/api/portraits/men/10.jpg",
   },
   {
     name: "David M",
