@@ -1,11 +1,9 @@
-import { MaximizeSharp } from "@mui/icons-material";
 import {
   Box,
   Stack,
   Typography,
   Grid,
   Card,
-  CardMedia,
   CardContent,
   Avatar,
 } from "@mui/material";
